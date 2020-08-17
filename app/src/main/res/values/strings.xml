@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">SmartWaiter</string>
+    <string name="btnNewTable">Новый столик</string>
+    <string name="btnExistingTable">Существующий столик</string>
+    <string name="loginNameHint">Введите логин для столика</string>
+    <string name="loginName">001</string>
+    <string name="tableNameHint">Введите имя столика</string>
+    <string name="tableName">table001</string>
+    <string name="loginPasswordHint">Введите пароль для столика</string>
+    <string name="loginPassword">001table</string>
+    <string name="title_activity_food">FoodActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Столик 1</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Меню</string>
+    <string name="menu_cart">Заказ</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_food_menu">FoodMenuActivity</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="menuText">Категория Меню</string>
+    <string name="foodText">Блюдо</string>
+    <string name="foodDetailName">Название блюда</string>
+    <string name="foodPrice">1.000</string>
+    <string name="foodDescription">Описание</string>
+    <string name="totalString">Итого: </string>
+    <string name="totalPrice">10.000</string>
+    <string name="placeOrder">Заказать</string>
+    <string name="someFoodItem">Блюо 1</string>
+    <string name="someFoodItemPrice">10.000</string>
+    <string name="clearCart">Очистить</string>
+    <string name="initialTimer">00:00</string>
+    <string name="newOrder">Заказать еще</string>
+    <string name="noOrder">Заказ не принесли</string>
+    <string name="commentOrder">Комментарий</string>
+    <string name="delete">Удалить</string>
+
+
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name='SmartWaiter'
+include ':app'
